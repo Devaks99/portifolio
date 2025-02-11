@@ -180,8 +180,8 @@ section .header {
     right: 55px;
     background-color: #1d4fd8e5;
     color: #fff;
-    border: 1px solid #6b6b6b;
-    box-shadow: 0 5px 15px rgba(34, 34, 34, 0.35);
+    border: 1px solid #4d4d4dbb;
+    box-shadow: 0 5px 15px rgba(116, 116, 116, 0.35);
     padding: 15px 18px;
     border-radius: 50%;
     cursor: pointer;
@@ -190,6 +190,12 @@ section .header {
     z-index: 1000;
 }
 
+.scroll-top:hover{
+    background-color: #366cff;
+}
+
+
+/* cards dos projetos */
 .features {
     margin-top: 4rem;
     display: grid;
