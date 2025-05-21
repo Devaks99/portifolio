@@ -34,7 +34,7 @@ Caso tenha interesse em colaborar ou trocar ideias, sinta-se à vontade para ent
 
 - **GitHub**: [https://github.com/Devaks99]
 - **Instagram**: [https://www.instagram.com/aks_dev/]
-- **LinkedIn**: [https://www.linkedin.com/in/ana-karla-209606263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+- **LinkedIn**: [https://www.linkedin.com/in/anakarla-inojoza/]
 - **E-mail**: devaks@outlook.com.br
 
 ---
